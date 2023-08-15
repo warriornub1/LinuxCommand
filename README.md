@@ -1,6 +1,6 @@
 # LinuxCommand
 
-**ls will display all files and directories contained within your current working directory </br>
+**ls will display all files and directories contained within your current working directory** </br>
 ls </br>
 ls [PATH TO DIRECTORY] </br>
 ## ls / will show the contents of 'slash', your Linux system's root directory.** </br>
